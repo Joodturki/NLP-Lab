@@ -8,4 +8,4 @@ This lab uses spaCy to identify and visualize named entities in text.
 
 Requirements: Python, spaCy, and en_core_web_sm.
 
-Run the notebook cells from top to bottom.
+
